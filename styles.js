@@ -539,7 +539,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! e:\MyPro\heros-list\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! E:\MyProject\heros-list\src\styles.css */"./src/styles.css");
 
 
 /***/ })
